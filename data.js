@@ -106,10 +106,10 @@ const secciones = [
       "<br>Exposición en <a href=\"https://www.fantastiklab.cc/2024/06/06/digital-entities/\" target=\"_blank\">Fantastik Lab</a>"
     ],
     elementos: [	
-      { tipo: "img", src: "assets/img/digital entities/data_drievn_dialogs2.jpg", top: "5px", left: "1vw", width: "250px" },
-      { tipo: "img", src: "assets/img/digital entities/protesis1.jpg", top: "5px", left: "20vw", width: "400px" },
-      { tipo: "img", src: "assets/img/digital%20entities/inaguraciontodo.jpg", top: "85px", left: "45vw", width: "300px" },
-      { tipo: "img", src: "assets/img/digital%20entities/aura1.jpg", top: "265px", left: "18vw", width: "350px" },
+      { tipo: "img", src: "assets/img/digital_entities/data_drievn_dialogs2.jpg", top: "5px", left: "1vw", width: "250px" },
+      { tipo: "img", src: "assets/img/digital_entities/protesis1.jpg", top: "5px", left: "20vw", width: "400px" },
+      { tipo: "img", src: "assets/img/digital_entities/inaguraciontodo.jpg", top: "85px", left: "45vw", width: "300px" },
+      { tipo: "img", src: "assets/img/digital_entities/aura1.jpg", top: "265px", left: "18vw", width: "350px" },
       { tipo: "box", texto: "PARTICIPAN ALICIA EZPELETA Y SARA ALASTUEY.", top: "258px", left: "260px" },
       { tipo: "box", texto: "FOTOGRAFÍA DE NERE.", top: "390px", left: "130px" }
     ]
@@ -146,7 +146,7 @@ const secciones = [
       "El enfoque principal que busca tomar este proyecto es crear una experiencia audiovisual especulativa, donde las imágenes generadas en diferentes pantallas se basan en los datos recolectados del estado de las plantas."
     ],
     elementos: [
-      { tipo: "img", src: "assets/img/plant spectra/whatsapp_image_2025-01-10_at_13_27_15_1.jpg", top: "30px", left: "2vw", width: "350px" },
+      { tipo: "img", src: "assets/img/plant_spectra/whatsapp_image_2025-01-10_at_13_27_15_1.jpg", top: "30px", left: "2vw", width: "350px" },
       { tipo: "video", src: "assets/video/grabación de pantalla 2025-01-12 192749.mp4", top: "1px", left: "30vw", width: "440px" },
       { tipo: "video", src: "assets/video/video muestra web.mp4", top: "205px", left: "30vw", width: "440px" },
       { tipo: "box", texto: "PARTICIPAN ALICIA EZPELETA, <br> ANDRÉS CUESTA Y SARA ALASTUEY. <br>", top: "5px", left: "240px" },
