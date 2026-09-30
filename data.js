@@ -11,7 +11,7 @@ const secciones = [
     elementos: [
       { tipo: "img", src: "assets/img/herrando_la_jeta/dsc01103.jpg", top: "60px", left: "6vw", width: "150px" },
       { tipo: "img", src: "assets/img/juls/dsc_0433.jpg", top: "15px", left: "33vw", width: "300px" },
-      { tipo: "img", src: "assets/img/herrando_la jeta/dsc01159.jpg", top: "30px", left: "15vw", width: "300px" },
+      { tipo: "img", src: "assets/img/herrando_la_jeta/dsc01159.jpg", top: "30px", left: "15vw", width: "300px" },
       { tipo: "img", src: "assets/img/juls/dsc_0489.jpg", top: "290px", left: "33vw", width: "320px" },
       { tipo: "elipse", texto: "ALI Y SARA.", top: "280px", left: "500px" },
       { tipo: "box", texto: "FOTOGRAFÍA DE JULIA G. ARTERO DURANTE EL MONTAJE DE <br> LA EXPOSICIÓN DIGITAL ENTITIES EN FANTASTIK LAB.", top: "200px", right: "130px" },
