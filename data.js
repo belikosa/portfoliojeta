@@ -9,10 +9,10 @@ const secciones = [
       'El énfasis en el trabajo colaborativo ha sido una constante en la trayectoria de La Jeta. Sus conexiones con el mundo del techno en Valencia, ha permitido que Alicia y Sara se desarrollen como lightjockeys, colaborando con diversos colectivos de la escena electrónica de la ciudad. De esta actividad, surge un profundo interés por los medios digitales, incentivando así una experimentación que se ha traducido en proyectos escenográficos y propuestas protagonizadas por la tecnología.<br><br>Instagram: <a href="https://www.instagram.com/la.jeta/" target="_blank">@lajeta</a> <br> '
     ],
     elementos: [
-      { tipo: "img", src: "assets/img/HERRANDO_LA JETA/dsc01103.jpg", top: "60px", left: "6vw", width: "150px" },
-      { tipo: "img", src: "assets/img/JULS/dsc_0433.jpg", top: "15px", left: "33vw", width: "300px" },
-      { tipo: "img", src: "assets/img/HERRANDO_LA JETA/dsc01159.jpg", top: "30px", left: "15vw", width: "300px" },
-      { tipo: "img", src: "assets/img/JULS/dsc_0489.jpg", top: "290px", left: "33vw", width: "320px" },
+      { tipo: "img", src: "assets/img/herrando_la jeta/dsc01103.jpg", top: "60px", left: "6vw", width: "150px" },
+      { tipo: "img", src: "assets/img/juls/dsc_0433.jpg", top: "15px", left: "33vw", width: "300px" },
+      { tipo: "img", src: "assets/img/herrando_la jeta/dsc01159.jpg", top: "30px", left: "15vw", width: "300px" },
+      { tipo: "img", src: "assets/img/juls/dsc_0489.jpg", top: "290px", left: "33vw", width: "320px" },
       { tipo: "elipse", texto: "ALI Y SARA.", top: "280px", left: "500px" },
       { tipo: "box", texto: "FOTOGRAFÍA DE JULIA G. ARTERO DURANTE EL MONTAJE DE <br> LA EXPOSICIÓN DIGITAL ENTITIES EN FANTASTIK LAB.", top: "200px", right: "130px" },
       { tipo: "box", texto: "FOTOGRAFÍA DE NACHO ERRANDO <br> Y JESUS PONCE.", top: "400px", right: "750px" }
@@ -30,10 +30,10 @@ const secciones = [
       "<br>Exposición en <a href=\"https://www.alumbrafest.es/alumbra-2025/exhibicion-muestra-artistica/\" target=\"_blank\">Alumbra 2025</a> <br> Exposición en <a href=\"https://www.instagram.com/p/DQosK7gArZj/?img_index=1\" target=\"_blank\"> @offbeat.gallery</a>"
     ],
     elementos: [
-      { tipo: "img", src: "assets/img/REBOOT/1.png", top: "40px", left: "0vw", width: "300px" },
-      { tipo: "img", src: "assets/img/REBOOT/2.png", top: "41px", left: "32vw", width: "500px" },
-      { tipo: "img", src: "assets/img/REBOOT/render.jpg", top: "64px", left: "17vw", width: "200px" },
-      { tipo: "img", src: "assets/img/REBOOT/pokemon_unido.jpg", top: "321px", left: "4vw", width: "350px" },
+      { tipo: "img", src: "assets/img/reboot/1.png", top: "40px", left: "0vw", width: "300px" },
+      { tipo: "img", src: "assets/img/reboot/2.png", top: "41px", left: "32vw", width: "500px" },
+      { tipo: "img", src: "assets/img/reboot/render.jpg", top: "64px", left: "17vw", width: "200px" },
+      { tipo: "img", src: "assets/img/reboot/pokemon_unido.jpg", top: "321px", left: "4vw", width: "350px" },
       { tipo: "box", texto: "PARTICIPAN ALICIA EZPELETA, JAVIER TERRAZAS Y SARA ALASTUEY.", top: "370px", left: "600px" }
     ]
   },
@@ -48,11 +48,11 @@ const secciones = [
       "Nos convertimos así en partícipes de un sistema en el que observar y ser observado ocurren de forma simultánea. La mirada deja de ser un gesto neutral para convertirse en una operación que activa y perpetúa el propio sistema que la contiene."
     ],
     elementos: [
-      { tipo: "img", src: "assets/img/VEOVEO/img_2453.jpg", top: "5px", left: "3vw", width: "500px" },
-      { tipo: "img", src: "assets/img/VEOVEO/img_2472.jpg", top: "20px", left: "35vw", width: "320px" },
-      { tipo: "img", src: "assets/img/VEOVEO/img_2480.jpg", top: "300px", left: "40vw", width: "350px" },
-      { tipo: "img", src: "assets/img/VEOVEO/img_2487.jpg", top: "350px", left: "26vw", width: "220px" },
-      { tipo: "img", src: "assets/img/VEOVEO/img_2444.jpg", top: "320px", left: "0vw", width: "270px" },
+      { tipo: "img", src: "assets/img/veoveo/img_2453.jpg", top: "5px", left: "3vw", width: "500px" },
+      { tipo: "img", src: "assets/img/veoveo/img_2472.jpg", top: "20px", left: "35vw", width: "320px" },
+      { tipo: "img", src: "assets/img/veoveo/img_2480.jpg", top: "300px", left: "40vw", width: "350px" },
+      { tipo: "img", src: "assets/img/veoveo/img_2487.jpg", top: "350px", left: "26vw", width: "220px" },
+      { tipo: "img", src: "assets/img/veoveo/img_2444.jpg", top: "320px", left: "0vw", width: "270px" },
       { tipo: "box", texto: "PARTICIPAN ALICIA EZPELETA Y SARA ALASTUEY.", top: "490px", left: "2vw" },
       { tipo: "box", texto: "FOTOGRAFÍAS DE JULIA G. ARTERO.", top: "336px", left: "28vw" }	
     ]
@@ -67,9 +67,9 @@ const secciones = [
       'Con esta instalación, se posiciona a las plantas como nodos de sensibilidad capaces de generar una narrativa propia. En su interacción estética con las máquinas, invitan a imaginar posibilidades híbridas que responden a las complejidades de un planeta en transformación, trazando nuevas historias de coexistencia en un mundo emergente.<br><br><a href="https://www.instagram.com/p/DHIsj-oqoQX/?img_index=7" target="_blank">@pluto______________</a> en Instagram<br><a href="https://metalmagazine.eu/es/post/pluto-miss-espacial-24" target="_blank">Artículo en Metal Magazine</a> <br> <a href="https://castellonplaza.com/castellonplaza/plutoabrealpublicosucajadejuegosunanavedondelosnuevosartistasvanaexperimentar" target="_blank">Artículo en Castellón Plaza</a>'
     ],
     elementos: [
-      { tipo: "img", src: "assets/img/HERRANDO_PLUTO/dsc02529.jpg", top: "5px", left: "6vw", width: "290px" },
-      { tipo: "video", src: "assets/video/LAJETA_ESPACIAL_COLOR.mp4", top: "5px", left: "40vw", width: "250px" },
-      { tipo: "img", src: "assets/img/HERRANDO_PLUTO/dsc02382.jpg", top: "28px", left: "24vw", width: "200px" },
+      { tipo: "img", src: "assets/img/herrando_pluto/dsc02529.jpg", top: "5px", left: "6vw", width: "290px" },
+      { tipo: "video", src: "assets/video/lajeta_espacial_color.mp4", top: "5px", left: "40vw", width: "250px" },
+      { tipo: "img", src: "assets/img/herrando_pluto/dsc02382.jpg", top: "28px", left: "24vw", width: "200px" },
       { tipo: "box", texto: "FOTOGRAFÍA Y VIDEO DE NACHO <br> ERRANDO Y JESUS PONCE.", top: "430px", left: "80px" },
       { tipo: "box", texto: "PARTICIPAN ALICIA EZPELETA <br> JAVIER TERRAZAS Y SARA ALASTUEY.", top: "320px", left: "420px" }
     ]
@@ -85,12 +85,12 @@ const secciones = [
       "<br>Exposición en <a href=\"https://www.fantastiklab.cc/2026/03/07/tu-primer-millon-la-jeta/\" target=\"_blank\">Fantastik Lab</a>"
     ],
     elementos:[
-      { tipo: "img", src: "assets/img/TUPRIMERMILLON/3.jpg", top: "5px", left: "6vw", width: "300px" },
-      { tipo: "img", src: "assets/img/TUPRIMERMILLON/13.jpg", top: "5px", left: "30vw", width: "300px" },
-      { tipo: "img", src: "assets/img/TUPRIMERMILLON/dsc00050.jpg", top: "200px", left: "10vw", width: "300px" },	
-      { tipo: "img", src: "assets/img/TUPRIMERMILLON/dsc00058.jpg", top: "220px", left: "0vw", width: "180px" },
-      { tipo: "video", src: "assets/video/C0012.mp4", top: "230px", left: "47vw", width: "280px" },
-      { tipo: "img", src: "assets/img/TUPRIMERMILLON/4.jpg", top: "50px", left: "49vw", width: "220px" },
+      { tipo: "img", src: "assets/img/tuprimermillon/3.jpg", top: "5px", left: "6vw", width: "300px" },
+      { tipo: "img", src: "assets/img/tuprimermillon/13.jpg", top: "5px", left: "30vw", width: "300px" },
+      { tipo: "img", src: "assets/img/tuprimermillon/dsc00050.jpg", top: "200px", left: "10vw", width: "300px" },	
+      { tipo: "img", src: "assets/img/tuprimermillon/dsc00058.jpg", top: "220px", left: "0vw", width: "180px" },
+      { tipo: "video", src: "assets/video/c0012.mp4", top: "230px", left: "47vw", width: "280px" },
+      { tipo: "img", src: "assets/img/tuprimermillon/4.jpg", top: "50px", left: "49vw", width: "220px" },
       { tipo: "box", texto: "PARTICIPAN ALICIA EZPELETA, <br> JAVIER TERRAZAS Y SARA ALASTUEY.", top: "190px", left: "260px" },
       { tipo: "box", texto: "FOTOGRAFÍA DURANTE LA INAGURACIÓN <br> DE JULIA G. ARTERO.", top: "470px", left: "130px" },
       { tipo: "box", texto: "FOTOGRAFÍA Y VIDEO DE NERE.", top: "180px", left: "747px" }
@@ -106,10 +106,10 @@ const secciones = [
       "<br>Exposición en <a href=\"https://www.fantastiklab.cc/2024/06/06/digital-entities/\" target=\"_blank\">Fantastik Lab</a>"
     ],
     elementos: [	
-      { tipo: "img", src: "assets/img/DIGITAL ENTITIES/data_drievn_dialogs2.jpg", top: "5px", left: "1vw", width: "250px" },
-      { tipo: "img", src: "assets/img/DIGITAL ENTITIES/protesis1.jpg", top: "5px", left: "20vw", width: "400px" },
-      { tipo: "img", src: "assets/img/DIGITAL%20ENTITIES/InaguraciOnTODO.jpg", top: "85px", left: "45vw", width: "300px" },
-      { tipo: "img", src: "assets/img/DIGITAL%20ENTITIES/aura1.jpg", top: "265px", left: "18vw", width: "350px" },
+      { tipo: "img", src: "assets/img/digital entities/data_drievn_dialogs2.jpg", top: "5px", left: "1vw", width: "250px" },
+      { tipo: "img", src: "assets/img/digital entities/protesis1.jpg", top: "5px", left: "20vw", width: "400px" },
+      { tipo: "img", src: "assets/img/digital%20entities/inaguraciontodo.jpg", top: "85px", left: "45vw", width: "300px" },
+      { tipo: "img", src: "assets/img/digital%20entities/aura1.jpg", top: "265px", left: "18vw", width: "350px" },
       { tipo: "box", texto: "PARTICIPAN ALICIA EZPELETA Y SARA ALASTUEY.", top: "258px", left: "260px" },
       { tipo: "box", texto: "FOTOGRAFÍA DE NERE.", top: "390px", left: "130px" }
     ]
@@ -124,9 +124,9 @@ const secciones = [
       "En el proyecto intervienen distintas disciplinas también llamativas en la actualidad, como la música (electrónica en este caso), el modelado y animación 3D, el mundo audiovisual y la Inteligencia Artificial; desde una perspectiva más macro, la música, el arte y la tecnología. Existe una conexión entre la construcción y expresión de identidades queer y la construcción de la música electrónica y sus sonidos y los espacios en los que estas se desarrollar y convergen.<br> <br> <a href=\"https://metalmagazine.eu/en/post/fred-topology\" target=\"_blank\">Artículo Fred Issid (MÚSICA) para Metal Magazine</a>"
     ],
     elementos: [
-      { tipo: "img", src: "assets/img/XENOGENESIS/xeno_01_ref_fig_03_1.png", top: "50px", left: "25vw", width: "490px" },
-      { tipo: "img", src: "assets/img/XENOGENESIS/xeno_variations_03_1.png", top: "65px", left: "2vw", width: "400px" },
-      { tipo: "img", src: "assets/img/XENOGENESIS/xeno_05_ref_fig_02.png", top: "560px", left: "39vw", width: "350px" },
+      { tipo: "img", src: "assets/img/xenogenesis/xeno_01_ref_fig_03_1.png", top: "50px", left: "25vw", width: "490px" },
+      { tipo: "img", src: "assets/img/xenogenesis/xeno_variations_03_1.png", top: "65px", left: "2vw", width: "400px" },
+      { tipo: "img", src: "assets/img/xenogenesis/xeno_05_ref_fig_02.png", top: "560px", left: "39vw", width: "350px" },
       { tipo: "video", src: "assets/video/redpandacompress_01.mp4", top: "455px", left: "15vw", width: "350px" },
       { tipo: "box", texto: "DIRECCIÓN CREATIVA: CHRISTIAN FRANCO<br>", top: "313px", left: "30px" },
       { tipo: "box", texto: "MODELADO 3D: PEDRO MARTINEZ <br> SOFTWARE: BLENDER <br>", top: "340px", left: "30px" },
@@ -146,9 +146,9 @@ const secciones = [
       "El enfoque principal que busca tomar este proyecto es crear una experiencia audiovisual especulativa, donde las imágenes generadas en diferentes pantallas se basan en los datos recolectados del estado de las plantas."
     ],
     elementos: [
-      { tipo: "img", src: "assets/img/PLANT SPECTRA/whatsapp_image_2025-01-10_at_13_27_15_1.jpg", top: "30px", left: "2vw", width: "350px" },
-      { tipo: "video", src: "assets/video/Grabación de pantalla 2025-01-12 192749.mp4", top: "1px", left: "30vw", width: "440px" },
-      { tipo: "video", src: "assets/video/VIDEO MUESTRA WEB.mp4", top: "205px", left: "30vw", width: "440px" },
+      { tipo: "img", src: "assets/img/plant spectra/whatsapp_image_2025-01-10_at_13_27_15_1.jpg", top: "30px", left: "2vw", width: "350px" },
+      { tipo: "video", src: "assets/video/grabación de pantalla 2025-01-12 192749.mp4", top: "1px", left: "30vw", width: "440px" },
+      { tipo: "video", src: "assets/video/video muestra web.mp4", top: "205px", left: "30vw", width: "440px" },
       { tipo: "box", texto: "PARTICIPAN ALICIA EZPELETA, <br> ANDRÉS CUESTA Y SARA ALASTUEY. <br>", top: "5px", left: "240px" },
       { tipo: "text-elipse", texto: "WIP", top: "340px", left: "0px" },
     ]
@@ -164,9 +164,9 @@ const secciones = [
       "<br>Dentro del marco Valencia Game City, Presentación <a href=\"https://www.instagram.com/p/DZUv1IHtHY3/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==\" target=\"_blank\">Sweet Lobby</a>" 
     ],
     elementos: [
-      { tipo: "img", src: "assets/img/DOSIS/captura_de_pantalla_2025-06-07_105433.png", top: "65px", left: "2vw", width: "400px" },
-      { tipo: "video", src: "assets/video/DOsis_gameplay.mp4", top: "30px", left: "27vw", width: "500px" },
-      { tipo: "img", src: "assets/img/DOSIS/captura_de_pantalla_2025-06-07_105531.png", top: "275px", left: "3vw", width: "400px" },
+      { tipo: "img", src: "assets/img/dosis/captura_de_pantalla_2025-06-07_105433.png", top: "65px", left: "2vw", width: "400px" },
+      { tipo: "video", src: "assets/video/dosis_gameplay.mp4", top: "30px", left: "27vw", width: "500px" },
+      { tipo: "img", src: "assets/img/dosis/captura_de_pantalla_2025-06-07_105531.png", top: "275px", left: "3vw", width: "400px" },
       { tipo: "box", texto: "SONIDO: XOEL GÓMEZ", top: "285px", left: "470px" },
       { tipo: "box", texto: "CONCEPT ART: ALICIA EZPELETA", top: "313px", left: "470px" },
       { tipo: "box", texto: "PROGRAMACIÓN: SARA ALASTUEY <br> SOFTWARE: UNITY <br>", top: "340px", left: "470px" }
