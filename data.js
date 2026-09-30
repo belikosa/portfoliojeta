@@ -10,9 +10,9 @@ const secciones = [
     ],
     elementos: [
       { tipo: "img", src: "assets/img/HERRANDO_LA JETA/DSC01103.jpg", top: "60px", left: "6vw", width: "150px" },
-      { tipo: "img", src: "assets/img/JULS/DSC_0433.JPG", top: "15px", left: "33vw", width: "300px" },
+      { tipo: "img", src: "assets/img/JULS/DSC_0433.jpg", top: "15px", left: "33vw", width: "300px" },
       { tipo: "img", src: "assets/img/HERRANDO_LA JETA/DSC01159.jpg", top: "30px", left: "15vw", width: "300px" },
-      { tipo: "img", src: "assets/img/JULS/DSC_0489.JPG", top: "290px", left: "33vw", width: "320px" },
+      { tipo: "img", src: "assets/img/JULS/DSC_0489.jpg", top: "290px", left: "33vw", width: "320px" },
       { tipo: "elipse", texto: "ALI Y SARA.", top: "280px", left: "500px" },
       { tipo: "box", texto: "FOTOGRAFÍA DE JULIA G. ARTERO DURANTE EL MONTAJE DE <br> LA EXPOSICIÓN DIGITAL ENTITIES EN FANTASTIK LAB.", top: "200px", right: "130px" },
       { tipo: "box", texto: "FOTOGRAFÍA DE NACHO ERRANDO <br> Y JESUS PONCE.", top: "400px", right: "750px" }
@@ -106,9 +106,9 @@ const secciones = [
       "<br>Exposición en <a href=\"https://www.fantastiklab.cc/2024/06/06/digital-entities/\" target=\"_blank\">Fantastik Lab</a>"
     ],
     elementos: [	
-      { tipo: "img", src: "assets/img/DIGITAL%20ENTITIES/Data_Drievn_Dialogs2.JPEG", top: "5px", left: "1vw", width: "250px" },
+      { tipo: "img", src: "assets/img/DIGITAL%20ENTITIES/Data_Drievn_Dialogs2.jpg", top: "5px", left: "1vw", width: "250px" },
       { tipo: "img", src: "assets/img/DIGITAL%20ENTITIES/Protesis1.jpg", top: "5px", left: "20vw", width: "400px" },
-      { tipo: "img", src: "assets/img/DIGITAL%20ENTITIES/InaguraciOnTODO.JPG", top: "85px", left: "45vw", width: "300px" },
+      { tipo: "img", src: "assets/img/DIGITAL%20ENTITIES/InaguraciOnTODO.jpg", top: "85px", left: "45vw", width: "300px" },
       { tipo: "img", src: "assets/img/DIGITAL%20ENTITIES/aura1.jpg", top: "265px", left: "18vw", width: "350px" },
       { tipo: "box", texto: "PARTICIPAN ALICIA EZPELETA Y SARA ALASTUEY.", top: "258px", left: "260px" },
       { tipo: "box", texto: "FOTOGRAFÍA DE NERE.", top: "390px", left: "130px" }
@@ -146,7 +146,7 @@ const secciones = [
       "El enfoque principal que busca tomar este proyecto es crear una experiencia audiovisual especulativa, donde las imágenes generadas en diferentes pantallas se basan en los datos recolectados del estado de las plantas."
     ],
     elementos: [
-      { tipo: "img", src: "assets/img/PLANT SPECTRA/WhatsApp Image 2025-01-10 at 13.27.15 (1).jpeg", top: "30px", left: "2vw", width: "350px" },
+      { tipo: "img", src: "assets/img/PLANT SPECTRA/WhatsApp Image 2025-01-10 at 13.27.15 (1).jpg", top: "30px", left: "2vw", width: "350px" },
       { tipo: "video", src: "assets/video/Grabación de pantalla 2025-01-12 192749.mp4", top: "1px", left: "30vw", width: "440px" },
       { tipo: "video", src: "assets/video/VIDEO MUESTRA WEB.mp4", top: "205px", left: "30vw", width: "440px" },
       { tipo: "box", texto: "PARTICIPAN ALICIA EZPELETA, <br> ANDRÉS CUESTA Y SARA ALASTUEY. <br>", top: "5px", left: "240px" },
