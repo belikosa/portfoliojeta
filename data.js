@@ -9,7 +9,7 @@ const secciones = [
       'El énfasis en el trabajo colaborativo ha sido una constante en la trayectoria de La Jeta. Sus conexiones con el mundo del techno en Valencia, ha permitido que Alicia y Sara se desarrollen como lightjockeys, colaborando con diversos colectivos de la escena electrónica de la ciudad. De esta actividad, surge un profundo interés por los medios digitales, incentivando así una experimentación que se ha traducido en proyectos escenográficos y propuestas protagonizadas por la tecnología.<br><br>Instagram: <a href="https://www.instagram.com/la.jeta/" target="_blank">@lajeta</a> <br> '
     ],
     elementos: [
-      { tipo: "img", src: "assets/img/herrando_la jeta/dsc01103.jpg", top: "60px", left: "6vw", width: "150px" },
+      { tipo: "img", src: "assets/img/herrando_la_jeta/dsc01103.jpg", top: "60px", left: "6vw", width: "150px" },
       { tipo: "img", src: "assets/img/juls/dsc_0433.jpg", top: "15px", left: "33vw", width: "300px" },
       { tipo: "img", src: "assets/img/herrando_la jeta/dsc01159.jpg", top: "30px", left: "15vw", width: "300px" },
       { tipo: "img", src: "assets/img/juls/dsc_0489.jpg", top: "290px", left: "33vw", width: "320px" },
