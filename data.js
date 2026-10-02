@@ -147,7 +147,7 @@ const secciones = [
     elementos: [
       { tipo: "img", src: "assets/img/plant_spectra/whatsapp_image_2025-01-10_at_13_27_15_1.jpg", top: "30px", left: "2vw", width: "350px" },
       { tipo: "video", src: "assets/video/grabación de pantalla 2025-01-12 192749.mp4", top: "1px", left: "30vw", width: "440px" },
-      { tipo: "video", src: "assets/video/video muestra web.mp4", top: "205px", left: "30vw", width: "440px" },
+      { tipo: "video", src: "assets/video/video-muestra-web.mp4", top: "205px", left: "30vw", width: "440px" },
       { tipo: "box", texto: "PARTICIPAN ALICIA EZPELETA, <br> ANDRÉS CUESTA Y SARA ALASTUEY. <br>", top: "5px", left: "240px" },
       { tipo: "text-elipse", texto: "WIP", top: "340px", left: "0px" },
     ]
