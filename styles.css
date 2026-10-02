@@ -48,17 +48,17 @@ a, button, .btn-filtro, .nav-categorias button, .nav-categorias-cv button {
 
 .top-bar-left {
   display: flex;
-  align-items: flex-start; /* Alinea arriba para que el margin-top mande */
-  height: 100%;             /* Ocupa todo el alto de la top-bar para respetar los márgenes */
+  align-items: flex-start;
+  height: 100%;
   box-sizing: border-box;
 }
 
 .top-bar-left img.logo-top-bar {
-  height: 60px;           /* Ajusta aquí el tamaño de tu logo si lo quieres más grande o pequeño */
+  height: 60px;
   width: auto;
   object-fit: contain;
-  margin-top: 15px;       /* Tu margen superior independiente */
-  margin-bottom: 15px;    /* Tu margen inferior independiente (¡ahora sí funcionará!) */
+  margin-top: 15px;
+  margin-bottom: 15px;
 }
 
 .top-bar-right {
@@ -152,7 +152,7 @@ a, button, .btn-filtro, .nav-categorias button, .nav-categorias-cv button {
   text-decoration: underline;
 }
 
-/* ESTRUCTURA DE SECCIONES EN DOS COLUMNAS */
+/* ESTRUCTURA DE SECCIONES EN DOS COLUMNAS (ORIGINAL DE PC) */
 .seccion-proyecto {
   position: relative;
   display: flex;
@@ -197,7 +197,7 @@ a, button, .btn-filtro, .nav-categorias button, .nav-categorias-cv button {
   pointer-events: auto;
 }
 
-
+/* ALTURAS EN PC */
 #segunda-seccion .galeria-contenedor { min-height: 520px; } /*BIO*/
 #tercera-seccion .galeria-contenedor { min-height: 0px; } /*reboot*/
 #cuarta-seccion .galeria-contenedor { min-height: 50px; } /* veo veo*/
@@ -285,4 +285,100 @@ a, button, .btn-filtro, .nav-categorias button, .nav-categorias-cv button {
   background-color: #f3f3f3;
   margin: 50px 0;
   flex-basis: 100%;
+}
+
+/* ==========================================================================
+   REGLAS EXCLUSIVAS PARA MÓVILES Y TABLETS (NO AFECTA A PC)
+   ========================================================================== */
+
+@media (max-width: 900px) {
+  body {
+    padding-top: 170px;
+    padding-bottom: 50px;
+  }
+
+  /* Ajustes de la barra superior */
+  .top-bar {
+    height: auto;
+    min-height: 70px;
+    padding: 0.5rem 1rem;
+  }
+
+  .top-bar-left img.logo-top-bar {
+    height: 40px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+
+  .top-bar-right {
+    padding: 0.2rem 0;
+  }
+
+  /* Navegación deslizable en horizontal */
+  .nav-categorias, 
+  .nav-categorias-cv {
+    top: 70px;
+    padding: 0.6rem 1rem;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    white-space: nowrap;
+  }
+
+  .nav-categorias::-webkit-scrollbar,
+  .nav-categorias-cv::-webkit-scrollbar {
+    display: none;
+  }
+
+  .nav-categorias-cv {
+    top: 110px;
+  }
+
+  /* APILAMIENTO DE CAJAS FLOTANTES DEL HEADER */
+  .cajas-flotantes-header {
+    position: relative !important;
+    top: auto !important;
+    left: auto !important;
+    width: calc(100% - 2rem) !important;
+    margin: 10px 1rem !important;
+    display: block !important;
+  }
+
+  /* APILAMIENTO EN UNA SOLA COLUMNA DE LAS SECCIONES */
+  .seccion-proyecto {
+    flex-direction: column;
+    padding: 0 1rem;
+    gap: 20px;
+  }
+
+  .seccion-proyecto header {
+    width: 100%;
+  }
+
+  .galeria-contenedor {
+    width: 100%;
+    min-height: auto !important;
+    display: flex;
+    flex-direction: column;
+    gap: 15px; /* Crea espacio uniforme entre fotos y elementos apilados */
+  }
+
+  /* CUALQUIER ELEMENTO FLOTANTE SE APILA ORDENADAMENTE UNO DEBAJO DEL OTRO */
+  .draggable-image,
+  .text-box, 
+  .text-elipse {
+    position: relative !important;
+    top: auto !important;
+    left: auto !important;
+    right: auto !important;
+    bottom: auto !important;
+    max-width: 100% !important;
+    width: 100% !important;
+    height: auto !important;
+    margin: 0 !important;
+  }
+
+  .text-elipse {
+    border-radius: 0px; /* En móviles se vuelve un bloque para que el texto encaje perfectamente */
+  }
 }
